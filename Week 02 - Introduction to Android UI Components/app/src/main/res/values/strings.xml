@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tip Calculator MAD</string>
+    <string name="hasil_tip">Jumlah tip: %s</string>
+</resources>
